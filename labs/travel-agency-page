@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta
+      name="description"
+      content="Explore exciting travel destinations and curated travel packages for unforgettable adventures around the world."
+    >
+  </head>
+
+  <body>
+    <h1>Explore Dream Destinations</h1>
+
+    <p>
+      Discover unique travel experiences across the globe, from historic cities
+      to breathtaking natural wonders.
+    </p>
+
+    <h2>Packages</h2>
+
+    <p>
+      We offer flexible travel packages designed for different travel styles and
+      group sizes.
+    </p>
+
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          Group Travels
+        </a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          Private Tours
+        </a>
+      </li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"
+          alt="The Colosseum in Rome"
+        >
+      </a>
+      <figcaption>Historic Rome Adventure</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"
+          alt="Snow-covered Alps mountains"
+        >
+      </a>
+      <figcaption>Alpine Nature Escape</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg"
+          alt="Clear blue sea and coastline"
+        >
+      </a>
+      <figcaption>Relaxing Coastal Getaway</figcaption>
+    </figure>
+  </body>
+</html>
+
